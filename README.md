@@ -5,5 +5,5 @@
 >*"***Work is the greatest thing in the world, so we should always save some for tomorrow.***"*
 
 ## 1. Extract data from source.
-  Gathering data "Sample-Superstore" from a github.
+  Gathering excel file "Sample-Superstore" from a github.
   
