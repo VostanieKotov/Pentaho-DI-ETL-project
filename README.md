@@ -14,4 +14,9 @@ The main goal of project сombining three tables in the Sample_superstore Excel 
 
 ## 2. Transform data stage
  - The transformation process consists of sorting, combining by ID field, then removing the duplicate and further converting it into a csv file 
+ 
 ![Image](https://github.com/VostanieKotov/Pentaho-DI-ETL-project/blob/main/etl_job.jpg)
+
+## 3. Load stage
+ - On load stage transformed table will be collected to csv file.
+  https://github.com/VostanieKotov/Pentaho-DI-ETL-project/blob/main/Sample_store_general.csv
