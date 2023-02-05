@@ -1,7 +1,7 @@
 # Pentaho-DI-ETL-project
 
 ### Developing ETL pipeline in Pentaho Data Integration
- The main goal of porject сombining three tables in the Sample_superstore Excel file into one table 
+ The main goal of project сombining three tables in the Sample_superstore Excel file into one table 
 
 >*"***Work is the greatest thing in the world, so we should always save some for tomorrow.***"*
 
